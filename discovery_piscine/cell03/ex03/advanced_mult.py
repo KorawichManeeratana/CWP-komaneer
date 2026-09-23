@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 for i in range(0, 11):
     count = 1
     print("Table de " + str(i) +": ", end="")
